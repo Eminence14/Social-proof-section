@@ -137,7 +137,8 @@ p.description {
     p.small_text {
         grid-column: 1/5;
         grid-row: 1;
-        margin-top: 180px;
+        position: relative;
+        margin-top: 40%;
         padding-right: 60px;
     }
     #rating {
